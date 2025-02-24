@@ -1,0 +1,697 @@
+fileFormatVersion: 2
+guid: 2341769bb2c204b78a69ed655ae205e1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Water
+  - first:
+      213: 21300002
+    second: Platform1
+  - first:
+      213: 21300004
+    second: Wolke1
+  - first:
+      213: 21300006
+    second: Wolke2
+  - first:
+      213: 21300008
+    second: Platform2
+  - first:
+      213: 21300010
+    second: Microphone
+  - first:
+      213: 21300012
+    second: Bomb
+  - first:
+      213: 21300014
+    second: Chicken
+  - first:
+      213: 21300016
+    second: Leg
+  - first:
+      213: 21300018
+    second: All_0
+  - first:
+      213: 21300020
+    second: Sun
+  - first:
+      213: 21300022
+    second: Eye
+  - first:
+      213: 21300024
+    second: Eye_Dead
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Water
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 597
+        width: 185
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 1, y: 1, z: 1, w: 29}
+      customData: 
+      outline:
+      - - {x: -92.5, y: 209}
+        - {x: -92.5, y: -209}
+        - {x: 92.5, y: -209}
+        - {x: 92.5, y: 209}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 914
+        width: 453
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 17, y: 0, z: 17, w: 17}
+      customData: 
+      outline:
+      - - {x: -227.5, y: 51}
+        - {x: -227.5, y: -51}
+        - {x: 227.5, y: -51}
+        - {x: 227.5, y: 51}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolke1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 832
+        width: 216
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -105, y: 31}
+        - {x: -108, y: 25}
+        - {x: -108, y: -31}
+        - {x: 108, y: -31}
+        - {x: 108, y: 21}
+        - {x: 100, y: 31}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolke2
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 702
+        width: 217
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 88.5, y: 20.5}
+        - {x: -16.5, y: 43.5}
+        - {x: -82.5, y: 43.5}
+        - {x: -108.5, y: 16.5}
+        - {x: -108.5, y: -32.5}
+        - {x: -103.5, y: -43.5}
+        - {x: 90.5, y: -43.5}
+        - {x: 108.5, y: -35.5}
+        - {x: 108.5, y: 6.5}
+        - {x: 105.5, y: 9.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform2
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 569
+        width: 161
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 80.5, y: 32}
+        - {x: 72.5, y: 38}
+        - {x: -75.5, y: 38}
+        - {x: -80.5, y: 31}
+        - {x: -80.5, y: -35}
+        - {x: -76.5, y: -38}
+        - {x: 79.5, y: -38}
+        - {x: 80.5, y: -37}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Microphone
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 679
+        width: 98
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -51, y: 1.5}
+        - {x: -51, y: -56.5}
+        - {x: -34, y: -103.5}
+        - {x: 30, y: -103.5}
+        - {x: 44, y: -86.5}
+        - {x: 51, y: -51.5}
+        - {x: 51, y: 1.5}
+      - - {x: -33, y: -42.5}
+        - {x: -33, y: -45.5}
+        - {x: -24, y: -52.5}
+        - {x: -25, y: -50.5}
+      - - {x: 14, y: 95.5}
+        - {x: -38, y: 58.5}
+        - {x: -38, y: 17.5}
+        - {x: -37, y: 11.5}
+        - {x: 36, y: 11.5}
+        - {x: 38, y: 50.5}
+        - {x: 38, y: 92.5}
+        - {x: 33, y: 95.5}
+      - - {x: -41, y: 95.5}
+        - {x: -41, y: 84.5}
+        - {x: -28, y: 66.5}
+        - {x: -25, y: 66.5}
+        - {x: -14, y: 70.5}
+        - {x: -14, y: 78.5}
+        - {x: -20, y: 95.5}
+      - - {x: -8, y: 103.5}
+        - {x: -9, y: 101.5}
+        - {x: -9, y: 71.5}
+        - {x: 8, y: 71.5}
+        - {x: 8, y: 103.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 685
+        width: 88
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -5.5, y: 47.5}
+        - {x: -45.5, y: 3.5}
+        - {x: -45.5, y: -8.5}
+        - {x: -7.5, y: -45.5}
+        - {x: -5.5, y: -47.5}
+        - {x: 12.5, y: -47.5}
+        - {x: 45.5, y: -7.5}
+        - {x: 45.5, y: 11.5}
+        - {x: 6.5, y: 47.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 182
+        width: 261
+        height: 291
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -3.5, y: 68}
+        - {x: -45.5, y: 58}
+        - {x: -61.5, y: -1}
+        - {x: -61.5, y: -70}
+        - {x: 61.5, y: -70}
+        - {x: 61.5, y: 60}
+        - {x: 25.5, y: 68}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leg
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 91
+        width: 59
+        height: 74
+      alignment: 9
+      pivot: {x: 0.29164588, y: 0.85069937}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -13, y: 17.5}
+        - {x: -14, y: 3.5}
+        - {x: -14, y: -17.5}
+        - {x: 14, y: -17.5}
+        - {x: 14, y: -0.5}
+        - {x: 2, y: 17.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_0
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 442
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -0.5, y: -0.5}
+        - {x: -0.5, y: 0.5}
+        - {x: 0.5, y: 0.5}
+        - {x: 0.5, y: -0.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 0
+        width: 485
+        height: 477
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 7.5, y: -72.5}
+        - {x: 10.5, y: -81.5}
+        - {x: 13.5, y: -95.5}
+        - {x: 39.5, y: -228.5}
+        - {x: 76.5, y: -224.5}
+        - {x: 86.5, y: -215.5}
+        - {x: 82.5, y: -196.5}
+        - {x: 128.5, y: -227.5}
+        - {x: 173.5, y: -196.5}
+        - {x: 188.5, y: -144.5}
+        - {x: 178.5, y: -125.5}
+        - {x: 204.5, y: -139.5}
+        - {x: 236.5, y: -118.5}
+        - {x: 236.5, y: 39.5}
+        - {x: 229.5, y: 41.5}
+        - {x: 236.5, y: 44.5}
+        - {x: 236.5, y: 108.5}
+        - {x: 195.5, y: 168.5}
+        - {x: 152.5, y: 198.5}
+        - {x: 142.5, y: 196.5}
+        - {x: 103.5, y: 150.5}
+        - {x: 52.5, y: 83.5}
+        - {x: 44.5, y: 73.5}
+        - {x: 44.5, y: 70.5}
+        - {x: 42.5, y: 68.5}
+        - {x: 38.5, y: 63.5}
+        - {x: 38.5, y: 62.5}
+        - {x: 38.5, y: 64.5}
+        - {x: 41.5, y: 67.5}
+        - {x: 44.5, y: 73.5}
+        - {x: 44.5, y: 74.5}
+        - {x: 48.5, y: 78.5}
+        - {x: 57.5, y: 90.5}
+        - {x: 138.5, y: 203.5}
+        - {x: 154.5, y: 238.5}
+        - {x: 28.5, y: 238.5}
+        - {x: 16.5, y: 194.5}
+        - {x: 7.5, y: 106.5}
+        - {x: 5.5, y: 75.5}
+        - {x: 4.5, y: 63.5}
+        - {x: 5.5, y: 71.5}
+        - {x: 5.5, y: 89.5}
+        - {x: 6.5, y: 90.5}
+        - {x: 10.5, y: 145.5}
+        - {x: 14.5, y: 238.5}
+        - {x: -30.5, y: 238.5}
+        - {x: -30.5, y: 230.5}
+        - {x: -19.5, y: 125.5}
+        - {x: -12.5, y: 79.5}
+        - {x: -11.5, y: 78.5}
+        - {x: -11.5, y: 71.5}
+        - {x: -11.5, y: 74.5}
+        - {x: -35.5, y: 194.5}
+        - {x: -44.5, y: 232.5}
+        - {x: -40.5, y: 238.5}
+        - {x: -242.5, y: 238.5}
+        - {x: -242.5, y: -53.5}
+        - {x: -234.5, y: -76.5}
+        - {x: -226.5, y: -80.5}
+        - {x: -172.5, y: -61.5}
+        - {x: -100.5, y: -33.5}
+        - {x: -79.5, y: -23.5}
+        - {x: -98.5, y: -32.5}
+        - {x: -120.5, y: -43.5}
+        - {x: -223.5, y: -91.5}
+        - {x: -242.5, y: -130.5}
+        - {x: -242.5, y: -142.5}
+        - {x: -108.5, y: -232.5}
+        - {x: 29.5, y: -232.5}
+        - {x: 9.5, y: -88.5}
+        - {x: 8.5, y: -80.5}
+        - {x: 8.5, y: -72.5}
+      - - {x: 4.5, y: -47.5}
+        - {x: 3.5, y: -52.5}
+        - {x: 4.5, y: -57.5}
+        - {x: 5.5, y: -58.5}
+        - {x: 7.5, y: -64.5}
+        - {x: 8.5, y: -63.5}
+      - - {x: 40.5, y: -47.5}
+        - {x: 40.5, y: -46.5}
+        - {x: 38.5, y: -42.5}
+        - {x: 34.5, y: -38.5}
+        - {x: 31.5, y: -36.5}
+        - {x: 35.5, y: -42.5}
+        - {x: 43.5, y: -49.5}
+        - {x: 42.5, y: -47.5}
+      - - {x: -67.5, y: 35.5}
+        - {x: -61.5, y: 32.5}
+        - {x: -58.5, y: 32.5}
+        - {x: -60.5, y: 34.5}
+      - - {x: -52.5, y: 48.5}
+        - {x: -58.5, y: 52.5}
+        - {x: -58.5, y: 53.5}
+        - {x: -59.5, y: 53.5}
+        - {x: -47.5, y: 43.5}
+        - {x: -48.5, y: 46.5}
+      - - {x: -47.5, y: 67.5}
+        - {x: -48.5, y: 67.5}
+        - {x: -45.5, y: 59.5}
+        - {x: -36.5, y: 52.5}
+        - {x: -36.5, y: 55.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 493
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye_Dead
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 489
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      All_0: 21300018
+      Bomb: 21300012
+      Chicken: 21300014
+      Eye: 21300022
+      Eye_Dead: 21300024
+      Leg: 21300016
+      Microphone: 21300010
+      Platform1: 21300002
+      Platform2: 21300008
+      Sun: 21300020
+      Water: 21300000
+      Wolke1: 21300004
+      Wolke2: 21300006
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
